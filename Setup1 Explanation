@@ -1,0 +1,3 @@
+This is the setup of a Smart Parking System which I created. In this system we are displaying two IR sensors , RFID System at the entrance with the Tags and the Card readers which verifies the car from the data and the let the car inside the parking if there are any available slots in the parking. 
+All this system is programmed and is working by the help of ESP8266 (Node MCU mod) mounted over a bread board.
+A servo Motor is additionaly installed which works as per the SBC and opens the barrier as per the availability of Parking slots in the area.
